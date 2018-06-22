@@ -1,7 +1,7 @@
 
-from init import Student
+from Include.py.init import Student
 
-from init2 import Score
+from Include.py.init2 import Score
 
 import  types
 
